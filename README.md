@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi good people 👋
 
-<!--
-**Bekione/Bekione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#_Bereket Kinfe_ here
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on fullstack web development specifially using MERN stack,  Next.js & Tailwind.css
+- 🌱 I’m currently learning Software Engineering @ [Debre Berhan University](https://www.dbu.edu.et/) & Computer Science @ [University Of The People](https://www.uopeople.edu/)
+- 👯 I’m looking to collaborate on modern ui development
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me anythin about web page styling
+- 📫 How to reach me: [Instagram](https://www.instagram.com/bekione23/), [Facebook](https://www.facebook.com/bereket.beki.98478), [Twitter](https://twitter.com/bekione23)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I spent 48 hours nonstop coding once
+
+[![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekione&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
