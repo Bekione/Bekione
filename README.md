@@ -11,5 +11,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I spent 48 hours nonstop coding once
 
-[![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekione&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekione&show_icons=true&theme=ayu-mirage&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
