@@ -1,6 +1,6 @@
 ### Hi good people 👋
 
-#_Bereket Kinfe_ here
+# _Bereket Kinfe_ here
 
 - 🔭 I’m currently working on fullstack web development specifially using MERN stack,  Next.js & Tailwind.css
 - 🌱 I’m currently learning Software Engineering @ [Debre Berhan University](https://www.dbu.edu.et/) & Computer Science @ [University Of The People](https://www.uopeople.edu/)
