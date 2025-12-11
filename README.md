@@ -33,7 +33,7 @@ I'm a passionate full-stack developer with over 2 years of experience building s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" title="VS Code"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/fc041503-f440-41c0-94e4-2fbae62deaed" width="40" title="Figma"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/fc041503-f440-41c0-94e4-2fbae62deaed" width="40" title="Windsurf"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" title="PyTorch"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" title="TensorFlow"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" title="Pandas"/>&nbsp;
