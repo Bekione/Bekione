@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer | Full-Stack Developer | Problem Solver
 
-I'm a passionate full-stack developer with over 2 years of experience building scalable web and mobile applications. My expertise lies in architecting and delivering end-to-end solutions, from creating intuitive frontends with **Next.js** and **React** to engineering robust backends with **Node.js** and **Laravel**. I thrive on breaking down complex problems and turning ideas into reality.
+I'm a passionate full-stack developer with over 3 years of experience building scalable web and mobile applications. My expertise lies in architecting and delivering end-to-end solutions, from creating intuitive frontends with **Next.js** and **React** to engineering robust backends with **Node.js** and **Laravel**. I thrive on breaking down complex problems and turning ideas into reality.
 
 ---
 
