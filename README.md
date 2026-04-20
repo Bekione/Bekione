@@ -22,7 +22,7 @@ I'm a passionate full-stack developer with over 2 years of experience building s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="35" title="Expo"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/c4d467e7-3994-4587-a381-f0e5ea57ca4d" width="35" title="TanStack"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="35" title="React Native"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="35" title="Zustand"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35" title="Redux"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/trpc/trpc-original.svg" width="35" title="TRPC"/>&nbsp;
 
