@@ -25,10 +25,12 @@ I'm a passionate full-stack developer with over 3 years of experience building s
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="35" title="Zustand"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="35" title="Redux"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/trpc/trpc-original.svg" width="35" title="TRPC"/>&nbsp;
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="35" title="Prisma" />
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" title="MySQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="35"  title="Supabase" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" title="FastAPI"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" title="Redis"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/9103a992-1ff6-4725-bb9b-16de5f55b10a" width="35" title="Celery"/>&nbsp;
